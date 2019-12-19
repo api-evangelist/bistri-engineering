@@ -1,0 +1,70 @@
+{
+    "name": "Bistri Engineering",
+    "description": "Operator of interactive video communication, innovative and simple. Developer Platform with API's and SDK's.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2162-bistri-engineering.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "networks",
+        "video calls"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bistri-engineering\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bistri Engineering",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2162-bistri-engineering.jpg",
+            "humanURL": "http:\/\/developers.bistri.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bistri-engineering-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "http:\/\/apis.io\/apisdef\/bistri.json"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/developers.bistri.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developers.bistri.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/bistri"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bistri"
+        },
+        {
+            "type": "Email",
+            "url": "contact@bistri.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Bistri"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BistriEng"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developers.bistri.com"
+        }
+    ]
+}
